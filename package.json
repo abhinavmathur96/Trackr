@@ -1,0 +1,18 @@
+{
+  "name": "trackr",
+  "version": "0.0.0",
+  "description": "Efficiently keep track of your schedule",
+  "author": "Abhinav Mathur",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^20.0.0",
+    "react": "^16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-20.0.0.tar.gz",
+    "react-native-action-button": "^2.8.0",
+    "react-native-calendars": "^1.5.8",
+    "react-native-swipe-list-view": "^0.4.1",
+    "react-native-vector-icons": "^4.3.0",
+    "react-navigation": "^1.0.0-beta.11"
+  }
+}
